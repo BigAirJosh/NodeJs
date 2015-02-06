@@ -1,4 +1,3 @@
-console.time("stuff");
+console.time("process");
 console.dir(process);
-console.log('Hello world!');
-console.timeEnd("stuff");
+console.timeEnd("process");
